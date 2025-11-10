@@ -48,6 +48,18 @@ Implantar o **PortfolioHUB**, uma plataforma centralizada para exibir e gerencia
 
 ---
 
+## 🔐 Gestão de Usuários e Segurança
+
+As seguintes medidas foram aplicadas ao repositório **ImplantacaoHUB**:
+
+- Configuração de colaboradores com níveis de permissão adequados;
+- Proteção da branch principal (`main`) contra commits diretos;
+- Criação e uso de token pessoal para autenticação segura;
+- Aplicação de autenticação em duas etapas (2FA);
+- Revisão de boas práticas de segurança com o Google Gemini.
+
+--
+
 ## 👥 Responsável
 - **Nome:** Juan Conceição Cassimiro  
 - **Curso:** Ciência da Computação
