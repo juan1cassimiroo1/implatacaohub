@@ -69,6 +69,10 @@ As seguintes medidas foram aplicadas ao repositório **ImplantacaoHUB**:
 
 --
 
+> 🧪 Teste de controle de versão: alteração feita na branch de desenvolvimento.
+
+--
+
 ## 👥 Responsável
 - **Nome:** Juan Conceição Cassimiro  
 - **Curso:** Ciência da Computação
