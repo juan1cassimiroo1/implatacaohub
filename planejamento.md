@@ -32,7 +32,17 @@ Implantar o **PortfolioHUB**, uma plataforma centralizada para exibir e gerencia
 
 ---
 
+## 💾 3️⃣ — Salve e envie pro GitHub
 
 ---
 
-## 💾 ETAPA 3️⃣ — Salve e envie pro GitHub
+## 🔄 4️⃣ Compartilhamento e Controle de Acesso com Git e GitHub
+
+- Criada a branch `desenvolvimento` para versionamento seguro;
+- Realizado teste de commit e push na branch secundária;
+- Aberto **Pull Request** (PR) para revisão antes do merge na `main`;
+- Política de proteção da branch `main` ativa, garantindo controle de qualidade;
+- Processo de colaboração documentado e validado;
+- Google Gemini utilizado para orientar boas práticas de controle de versão.
+
+> 🧠 **Status:** Fluxo de versionamento e colaboração concluído com sucesso.
